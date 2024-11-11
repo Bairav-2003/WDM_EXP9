@@ -1,7 +1,7 @@
 ## EX9: Preprocessing on Twitter Data using Rapidminer
 
 
-### DATE: 24:08:2024
+### DATE: 
 
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 
